@@ -1,5 +1,5 @@
 # GooMPy-Modified
-Interactive OSM Maps for Python
+Interactive OSM Maps in Python
 
 Modified from [GooMPy](https://github.com/simondlevy/GooMPy) by Simon D. Levy.
 
